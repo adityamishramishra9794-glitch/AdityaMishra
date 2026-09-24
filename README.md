@@ -1,15 +1,77 @@
-# Aditya Mishra — Cybersecurity Portfolio
+🛡️ Aditya Mishra — Cybersecurity Portfolio
 
-Responsive single-page cybersecurity portfolio built with plain HTML/CSS.
+Welcome to my cybersecurity portfolio.
 
-## Run
-Open `index.html` in any browser.
+I am a cybersecurity learner focused on web security, penetration testing, security research, reconnaissance, CTFs, and practical hands-on learning.
 
-## Customize
-1. Replace GitHub and LinkedIn placeholders.
-2. Add your real projects and write-up links.
-3. Update skills to reflect your actual experience.
-4. Do not claim certificates, findings, or experience you do not have.
+🔐 Focus Areas
 
-## GitHub Pages
-Create a repository, upload `index.html`, then enable GitHub Pages in repository Settings → Pages.
+- Web Application Security
+- Penetration Testing
+- Reconnaissance
+- Authentication & Authorization
+- Security Misconfigurations
+- Vulnerability Research
+- CTF & Security Labs
+- Security Documentation
+
+🧰 Tools & Technologies
+
+- Burp Suite
+- Nmap
+- Subfinder
+- cURL
+- Linux
+- WSL
+- Git & GitHub
+- Python
+- HTTP / Web Technologies
+
+🚀 Projects
+
+Cybersecurity Toolkit
+
+A collection of security utilities created for learning and authorized security testing environments.
+
+Web Security Lab
+
+Hands-on security experiments and documented learning around common web application security concepts.
+
+Security Dashboard
+
+A dashboard concept for organizing security findings, severity, evidence, and remediation information.
+
+📝 Security Write-ups
+
+This section contains my learning notes, CTF write-ups, lab exercises, and security research documentation.
+
+Each write-up focuses on:
+
+Investigation → Evidence → Understanding → Impact → Remediation
+
+🏆 Learning & Achievements
+
+- Cybersecurity hands-on practice
+- CTF and security laboratory experience
+- Web security learning
+- Security research and documentation
+
+🎯 Current Goal
+
+Continuously improve my practical cybersecurity skills and build useful security-focused open-source projects.
+
+📌 Responsible Security
+
+All security testing and research presented here is intended for authorized environments, CTFs, labs, and programs that explicitly permit the activity.
+
+I do not claim vulnerabilities, certifications, or professional experience that I do not actually have.
+
+🔗 Links
+
+GitHub:
+https://github.com/
+
+
+---
+
+⭐ Thanks for visiting my cybersecurity portfolio.
