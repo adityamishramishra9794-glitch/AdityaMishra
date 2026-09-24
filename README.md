@@ -69,7 +69,7 @@ I do not claim vulnerabilities, certifications, or professional experience that 
 🔗 Links
 
 GitHub:
-https://github.com/
+https://github.com/adityamishramishra9794-glitch/AdityaMishra.git
 
 
 ---
